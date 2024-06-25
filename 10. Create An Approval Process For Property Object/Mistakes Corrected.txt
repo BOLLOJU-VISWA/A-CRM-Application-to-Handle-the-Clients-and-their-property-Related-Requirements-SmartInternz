@@ -1,0 +1,6 @@
+#############################################################
+
+1. For both objects i.e, Property and Customer "Verified" Field is taken as "Text" Field type.
+2. The Field type is changed to Checkbox before Approval Process Step
+
+##############################################################
